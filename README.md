@@ -1,3 +1,7 @@
+# Sample_ReactJS_SCSS_skeleton
+
+It is a single page sample skeleton.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
