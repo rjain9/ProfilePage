@@ -1,3 +1,3 @@
-# ProfilePage
+# Sample_ReactJS_SCSS_skeleton
 
-A sample profile page using react.js
+A single page skeleton!
