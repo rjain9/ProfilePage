@@ -1,2 +1,0 @@
-// node package for react
-npm install -g create-react-app
